@@ -1,12 +1,10 @@
 ## Linguagem de Programação
-
 Maneira de dar instruções ao computador.
 Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
 > **Algoritmo**> Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças da linguagem
-
 - Comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógico)
@@ -21,13 +19,27 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Apresentar os dados
 
 ## Escopo e variável
-- Variavéis golais e locais
-- Constantes
+- [x] Variavéis golais e locais
+- [x] Constantes
 
 ## Tipos de dados
-- String (texto)
-- Number (1,2,...)
-- Function
+- [x] String (texto)
+- [x] Number (1,2,...)
+- [x] Boolean
 
 ## Operadores
-- Operadores de atribuição de valor (=)
+- [x] Operadores de atribuição de valor (=)
+- [x] Operador de concatenação (+)
+
+## Arrays
+- [x] Uma lista que contem qualquer tipo de dado
+
+## Objetos
+- [x] Atributos e métodos
+- [x] criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+## Functions
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] Arrow funstion / named function
