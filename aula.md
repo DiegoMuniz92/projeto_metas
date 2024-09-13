@@ -49,3 +49,10 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Condicionais
 - [x] Switch
+
+## Modulos em Node.JS
+- [x] Importação de modulos (require, commonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programassão assíncrona e promises
+- [x] Uso de funções assíncronas (async/await)
